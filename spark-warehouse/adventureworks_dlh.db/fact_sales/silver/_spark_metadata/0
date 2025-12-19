@@ -1,0 +1,4 @@
+v1
+{"path":"file:///C:/Users/devpp/Desktop/project1/spark-warehouse/adventureworks_dlh.db/fact_sales/silver/part-00000-86db4d8d-00c3-4749-ae60-09427a5be1fa-c000.snappy.parquet","size":1034,"isDir":false,"modificationTime":1766182808790,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/devpp/Desktop/project1/spark-warehouse/adventureworks_dlh.db/fact_sales/silver/part-00003-7b9382a0-1136-42f2-a59d-6d2ba1d5920c-c000.snappy.parquet","size":10425811,"isDir":false,"modificationTime":1766182817058,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/devpp/Desktop/project1/spark-warehouse/adventureworks_dlh.db/fact_sales/silver/part-00017-35c78445-4499-4d80-b4d1-758ac35fbdef-c000.snappy.parquet","size":10425810,"isDir":false,"modificationTime":1766182817310,"blockReplication":1,"blockSize":33554432,"action":"add"}
